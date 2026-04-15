@@ -134,7 +134,7 @@ docker run --rm -p 8000:8000 my-python-app
 ```bash
 POST /ask
 {
-  "question": "Quels événements pop récents ?"
+  "question": "votre question"
 }
 ```
 
