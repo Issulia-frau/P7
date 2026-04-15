@@ -146,6 +146,8 @@ POST /rebuild
 ├── main.py
 ├── data.csv
 ├── README.md
-├── tests/
-│   └── test_api.py
+├── test_api.py
+├── Dockefile
+├── Requirements.txt
+├── P7.ipynb (data extration to csv)
 ```
