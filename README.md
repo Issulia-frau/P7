@@ -121,6 +121,12 @@
 
 ```bash
 uvicorn main:app --reload
+
+ou docker
+
+docker build --no-cache -t my-python-app .
+docker run --rm -p 8000:8000 my-python-app
+
 ```
 
 ### Endpoint principal
