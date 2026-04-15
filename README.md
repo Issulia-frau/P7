@@ -149,5 +149,6 @@ POST /rebuild
 ├── test_api.py
 ├── Dockefile
 ├── Requirements.txt
-├── P7.ipynb (data extration to csv)
+├── P7-datasource.ipynb (data extration to csv)
+├── auths.py (Your openagenda token)
 ```
