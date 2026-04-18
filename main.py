@@ -163,7 +163,8 @@ def startup():
 
     print("Loading models...")
 
-    embedding_model = SentenceTransformer('all-mpnet-base-v2')
+    #embedding_model = SentenceTransformer('all-mpnet-base-v2')
+    embedding_model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
 
     pipe = pipeline(
         "text-generation",
