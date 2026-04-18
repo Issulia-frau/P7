@@ -1,0 +1,34 @@
+[
+  {
+    "question": "concerts jazz à La Rochelle",
+    "ground_truth_ids": [90998199, 73293180, 45185340, 96849524]
+  },
+  {
+  "question": "je cherche un concert chill genre folk",
+  "ground_truth_ids": [43270199, 1031885, 87067554, 42148752]
+  },
+  {
+  "question": "concerts rock à La Rochelle",
+  "ground_truth_ids": [71495690, 32532358, 15459628, 63845526]
+  },
+  {
+  "question": "événements électro",
+  "ground_truth_ids": [63189625, 45396371, 43128523, 88312943]
+  },
+  {
+  "question": "événements en juin",
+  "ground_truth_ids": [44445923, 32532358, 60950766, 45396371, 15459628]
+  },
+  {
+  "question": "concerts jazz en mai",
+  "ground_truth_ids": [90998199]
+  },
+  {
+  "question": "concerts à La Coursive",
+  "ground_truth_ids": [90998199]
+  },
+  {
+  "question": "événements à La Sirène",
+  "ground_truth_ids": [88012351, 43128523, 44777219]
+  }
+]
